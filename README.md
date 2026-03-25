@@ -8,6 +8,7 @@ This project demonstrates a simple image changing animation using CSS. Images sm
 - Easy to customize with your own images
 - Pure CSS solution, no JavaScript required
 
+
 ## Installation
 
 1. Clone the repository:
@@ -16,6 +17,7 @@ This project demonstrates a simple image changing animation using CSS. Images sm
 git clone https://github.com/sushanksonawane/image-animation-css.git
 
 
-**Vist Here**
 
-https://sushanksonawane.github.io/image-changing-animation-using-css/
+## 🚀 Live Demo
+
+👉 [Click here to view project](https://sushanksonawane.github.io/image-changing-animation-using-css/)
